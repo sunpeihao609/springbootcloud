@@ -1,0 +1,4 @@
+com\sph\config\NameConfig.class
+META-INF\spring-autoconfigure-metadata.properties
+com\sph\service\NameService.class
+com\sph\config\AutoConfig.class

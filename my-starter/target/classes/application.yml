@@ -1,0 +1,4 @@
+com:
+  my-starter:
+    name: "sph"
+    enable: true
