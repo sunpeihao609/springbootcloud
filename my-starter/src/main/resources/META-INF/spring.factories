@@ -1,2 +1,3 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.sph.config.AutoConfig
+  com.sph.config.AutoConfig,\
+  com.sph.config.AopAutoConfig
